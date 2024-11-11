@@ -128,7 +128,6 @@
     display: flex;
     position: relative;
     flex-direction: column;
-    justify-content: baseline;
     margin-left: 147px;
     margin-right: 302px;
     width: 830px;
