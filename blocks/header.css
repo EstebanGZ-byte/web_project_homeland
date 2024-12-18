@@ -61,14 +61,16 @@
   }
 
   .header__content {
-    width: 288px;
-    height: 144px;
+    margin: 50px 0 0 0;
+    width: 320px;
+    height: 384px;
     padding: 0;
   }
 
   .header__title {
     width: 228px;
     height: 88px;
+    margin: 0;
     font-family: "Inter-black";
     font-weight: 900;
     font-size: 40px;
@@ -79,6 +81,7 @@
   .header__subtitle {
     width: 288px;
     height: 40px;
+    margin-bottom: 40px;
     font-family: "Inter";
     font-weight: 400;
     font-size: 16px;
@@ -116,8 +119,8 @@
   }
 
   .header__content {
-    width: 720px;
-    height: 255px;
+    width: 768px;
+    height: 765px;
     padding: 0;
   }
 
@@ -144,6 +147,7 @@
   .header__image {
     width: 768px;
     height: 480px;
+    box-shadow: 10px 10px 25px 0px #00000080;
   }
 }
 
@@ -179,28 +183,30 @@
   .header__title {
     width: 720px;
     height: 200px;
+    margin-bottom: 0;
     padding: 0;
     font-family: "Inter-black";
     font-weight: 900;
     font-size: 96px;
-    line-height: 1.06;
+    line-height: 100px;
     text-align: center;
   }
 
   .header__subtitle {
     width: 720px;
     height: 72px;
-    top: 32px;
+    margin: 32px 0 64px 0;
     padding: 0;
     font-family: Inter;
     font-weight: 400;
     font-size: 30px;
-    line-height: 1.2;
+    line-height: 36px;
     text-align: center;
   }
 
   .header__image {
     width: 984px;
     height: 615px;
+    box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
   }
 }

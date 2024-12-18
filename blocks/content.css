@@ -1,22 +1,12 @@
-.content {
-  display: flex;
-  position: relative;
-  max-width: 830px;
-  max-height: 607px;
-  margin: auto;
-  color: white;
-}
-
 @media screen and (min-width: 320px) {
-  .content {
+  .content-intro {
     display: flex;
     position: relative;
     flex-direction: column;
     margin-left: 16px;
     margin-right: 16px;
     width: 288px;
-    height: 1033px;
-    top: 304px;
+    height: 913px;
     color: white;
   }
 
@@ -69,13 +59,19 @@
     display: flex;
     position: relative;
     flex-direction: column;
-    margin-left: 24px;
-    margin-right: 24px;
-    width: 720px;
-    height: 573px;
-    top: 600px;
+    margin: 0 auto;
     padding: 0;
     color: white;
+  }
+
+  .content-intro {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    width: 720px;
+    height: 539px;
+    margin: 100px 24px 0 24px;
+    padding: 0;
   }
 
   .content-intro__title {
@@ -128,11 +124,18 @@
     display: flex;
     position: relative;
     flex-direction: column;
-    margin-left: 147px;
-    margin-right: 302px;
+    margin: 0 auto;
+    padding: 0;
+    color: white;
+  }
+
+  .content-intro {
+    display: flex;
+    position: relative;
+    flex-direction: column;
     width: 830px;
     height: 607px;
-    top: 96px;
+    margin: 92px 302px 0 147px;
     padding: 0;
     color: white;
   }
