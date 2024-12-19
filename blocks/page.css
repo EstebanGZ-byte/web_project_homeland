@@ -4,13 +4,13 @@
   height: 100%;
   width: 100%;
   max-width: 1280px;
-  max-height: 6026px;
+  max-height: 9104px;
 }
 
 @media screen and (min-width: 320px) {
   .page {
     width: 320px;
-    min-height: 9062px;
+    height: 9062px;
     background-color: #2a2c2f;
     margin: auto;
   }
@@ -19,7 +19,7 @@
 @media screen and (min-width: 768px) {
   .page {
     width: 768px;
-    min-height: 6500px;
+    height: 6500px;
     background-color: #2a2c2f;
     margin: auto;
   }
@@ -28,7 +28,7 @@
 @media screen and (min-width: 1280px) {
   .page {
     width: 1280px;
-    min-height: 6356px;
+    height: 6356px;
     background-color: #2a2c2f;
     margin: auto;
   }
