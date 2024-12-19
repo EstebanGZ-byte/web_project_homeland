@@ -1,8 +1,10 @@
 # De patria a patria
 
-# Proyecto 5: Diseño web adaptativo
+# Proyecto 6: Trabajar con diseños
 
-Este proyecto es el número cinco del programa de Desarrollo web en TripleTen que explico como poder lograr que una pagina web se vea bien en diferentes tipos de dispositivos electronicos: los tamaños sin utilizar medidas exactas, incluso el tamaño de las letras; como poder agregar fuentes descargadas y diferentes comandos en Git para modificar los archivos desde Git Bash.
+Este proyecto es el número seis del programa de Desarrollo web en TripleTen que explico como poder lograr que una pagina web tenga una mejor apariencia, por que explico la manera mas facil de acomodar elementos y que ademas
+explico la manera de que podamos darle un sombreado a los elementos y explico como poder aplicar un degradado a
+la pagina web.
 
 # Autor
 
